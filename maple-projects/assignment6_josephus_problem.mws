@@ -1,0 +1,447 @@
+{VERSION 2021 0 "Windows Server 2019" "2021.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1 {CSTYLE "" -1 
+-1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 1 2 0 0 1 }1 1 0 0 0 0 2 0 2
+ 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "Times" 1 16 
+0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Ma
+ple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" -1 5 1 
+{CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Couri
+er New" 1 12 40 120 40 1 2 2 2 2 2 1 2 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Te
+xt Output" -1 2 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 
+2 2 1 3 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier New" 1 12 
+255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0
+ 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE 
+"" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "2D Out
+put" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D Ine
+rt Output" -1 200 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }
+{CSTYLE "Maple Input" -1 0 "Courier New" 1 12 120 0 14 1 2 1 2 2 1 2 0
+ 0 0 1 }{CSTYLE "Header and Footer" -1 201 "Times" 1 10 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 202 "Times" 1 12 175 0 175
+ 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1
+ 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 
+12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 203 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 
+1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Text" -1 204 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 205 "Times"
+ 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 206 "Courier New"
+ 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder"
+ -1 207 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "E
+quation Label" -1 208 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1
+ }{CSTYLE "Caption Text" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0
+ 1 }{CSTYLE "" -1 210 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 211 "Times" 1 12 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 212 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 213 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 214 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 215 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 218 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 219 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 220 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times" 1 12 0 0 0 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 225 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 226 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 228 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 231 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 232 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 233 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 234 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 235 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 238 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 239 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 240 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {XPPEDIT 2 1 "Typesetting:-mrow(Typese
+tting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetti
+ngGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariantGQ'normalF'/%&fenceGQ&f
+alseF'/%*separatorGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.mova
+blelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGFC" }}}{EXCHG 
+{PARA 18 "" 0 "" {TEXT 246 12 "Assignment 6" }}}{EXCHG {PARA 19 "" 0 "
+" {TEXT 247 14 "Elijah Morales" }{TEXT 247 0 "" }}}{EXCHG {PARA 19 "" 
+0 "" {TEXT 247 0 "" }{TEXT 247 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+204 11 "Problem 1. " }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "
+" {TEXT 204 214 "If n people (numbered 1 to n) stand in a circle and s
+omeone starts going around the circle and eliminating every other pers
+on till only one person is left, the number J(n) of the person left at
+ the end is given by " }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0
+ "" {TEXT 248 48 "    J(n) = 1                           if n = 1\n" }
+{TEXT 248 56 "    J(n) = 2*J(n/2) - 1          if n > 1 and n is even
+\n" }{TEXT 248 52 "    J(n) = 2*J((n-1)/2) + 1   if  n > 1 and n is od
+d" }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "" {TEXT 248 12 "(i
+) Write a " }{TEXT 210 9 "recursive" }{TEXT 211 1 " " }{TEXT 212 9 "pr
+ocedure" }{TEXT 248 115 " to compute J. [As a check the first 16 value
+s (starting with 1) of J(n) are 1,1,3,1,3,5,7,1,3,5,7,9,11,13,15,1]. \+
+\n" }{TEXT 248 35 "(ii)Compute the value of J(10000). " }}{PARA 0 "" 0
+ "" {TEXT 248 115 "(iii) Can you explain why this is so much faster th
+an our recursive procedure to compute the n-th Fibonacci number?" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "" {TEXT 248 1 "[
+" }{TEXT 213 6 "Remark" }{TEXT 248 45 ". The problem above is a specia
+l case of the " }{TEXT 214 16 "Josephus Problem" }{TEXT 248 171 ". Ins
+tead of eliminating every other person, one could eliminate every 3rd \+
+person, every 4th person, etc.  For more on the history and generaliza
+tions of this problem see " }{TEXT 215 8 "Concrete" }{TEXT 248 1 " " }
+{TEXT 216 11 "Mathematics" }{TEXT 248 4 " -- " }{TEXT 217 33 "A Founda
+tion for Computer Science" }{TEXT 248 149 ", by Graham, Knuth and Pata
+shnik, Chapter 1. You will also find a number of webpages and mathemat
+ics papers devoted to this problem if you search on " }{TEXT 218 16 "J
+osephus Problem" }{TEXT 248 28 " via a search engine or via " }{TEXT 
+219 10 "MathSciNet" }{TEXT 248 13 " -- click on " }{TEXT 220 30 "Inter
+esting Mathematical Links" }{TEXT 248 92 " at the bottom of the USF Ma
+thematics Department's home page -- from a USF computer--to use " }
+{TEXT 221 10 "MathSciNet" }{TEXT 248 2 ".]" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 204 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 486 "restart;
+\n\n# Recursive procedure to compute J(n) for the Josephus problem\nJo
+sephus := proc(n)\n    description \"Recursive procedure to compute J(
+n) in the Josephus Problem\";\n    if n = 1 then\n        return 1;\n \+
+   elif n mod 2 = 0 then\n        return 2 * Josephus(n / 2) - 1;\n   \+
+ else\n        return 2 * Josephus((n - 1) / 2) + 1;\n    end if;\nend
+ proc:\n\n# Verify the procedure for the first 16 values of J(n)\nseq(
+Josephus(n), n = 1..16);\n\n# Compute the value of J(10000)\nJosephus(
+10000);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "62\"\"\"F#\"\"$F#F$\"\"&\"
+\"(F#F$F%F&\"\"*\"#6\"#8\"#:F#" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"%<O"
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 204 772 "The recursive procedure for \+
+the Josephus problem is significantly faster than the recursive Fibona
+cci procedure due to its divide-and-conquer nature. In the Josephus pr
+oblem, at each recursive step, the input size is halved, making the ti
+me complexity logarithmic, O(log n). This means the problem size shrin
+ks quickly, requiring fewer total steps. By contrast, the naive Fibona
+cci recursive procedure calls itself twice for each number, leading to
+ exponential growth in the number of recursive calls, O(2^n), which ma
+kes it much slower without optimization like memoization. Additionally
+, the Josephus procedure does not recompute values, while the naive Fi
+bonacci approach recalculates the same Fibonacci numbers multiple time
+s, increasing computation time dramatically." }}}{EXCHG {PARA 0 "" 0 "
+" {XPPEDIT 2 1 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-
+mspace(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", lineb
+reak = \"newline\"), Typesetting:-mspace(height = \"0.0ex\", width = \+
+\"0.0em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mi(
+\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6&-I#mi
+GF$6#Q!F'-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGQ&0.0emF'/%&depthGF
+4/%*linebreakGQ(newlineF'-F06&F2F5F8/F;Q%autoF'F+" }}{PARA 0 "" 0 "" 
+{TEXT 204 11 "Problem 2. " }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 
+"" 0 "" {TEXT 248 37 "Write a procedure using the variable " }{TEXT 
+222 4 "args" }{TEXT 248 57 " that will take an unspecified finite numb
+er of numbers, " }{TEXT 223 35 "delete the smallest and the largest" }
+{TEXT 248 2 ", " }{TEXT 224 62 "and return the average of the rest as \+
+a floating point number." }{TEXT 248 131 " If there are fewer than 3 a
+rguments have an error message say: \"There are not enough arguments. \+
+There should be at least three.\" \n" }{TEXT 248 1 "\n" }{TEXT 248 
+131 "You should have no input parameters in the definition of the proc
+edure. You may write it directly or you may use the Maple command " }
+{TEXT 225 5 "sort " }{TEXT 248 30 "as a part of your program. Do " }
+{TEXT 226 6 "?sort " }{TEXT 248 11 "to see how " }{TEXT 227 4 "sort" }
+{TEXT 248 77 " works. Test your procedure with each of the following a
+rgument sequences:  \n" }{TEXT 248 1 "\n" }{TEXT 248 24 "   50,40,40, \+
+40, 40, 10\n" }{TEXT 248 1 "\n" }{TEXT 248 7 "   1,2\n" }{TEXT 248 1 "
+\n" }{TEXT 248 28 "   seq(100 - i, i = 1..100)\n" }{TEXT 248 1 "\n" }
+{TEXT 248 32 "   seq(modp(n,111), n=1..1000).\n" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 677 "DeleteMinMaxAvg := proc()\n    local sortedAr
+gs, rest, n, i;\n    description \"This procedure deletes the smallest
+ and largest number and returns the average of the remaining numbers.
+\";\n    \n    n := nargs;  \n    \n    \n    if n < 3 then\n        e
+rror \"There are not enough arguments. There should be at least three.
+\";\n    end if;\n    \n    \n    sortedArgs := sort([args]);\n\n    \+
+\n    rest := [op(2..n-1, sortedArgs)];\n    \n    \n    return evalf(
+add(rest[i], i = 1..n-2) / (n-2));\nend proc:\n\n\nprint(DeleteMinMaxA
+vg(50, 40, 40, 40, 40, 10));  \nprint(DeleteMinMaxAvg(1, 2));  \nprint
+(DeleteMinMaxAvg(seq(100 - i, i = 1..100)));  \nprint(DeleteMinMaxAvg(
+seq(modp(n,111), n=1..1000)));  \n" }}{PARA 11 "" 1 "" {XPPMATH 20 "$
+\"#S\"\"!" }}{PARA 206 "" 1 "" {TEXT 249 0 "" }{HYPERLNK 249 "Error, (
+in DeleteMinMaxAvg) There are not enough arguments. There should be at
+ least three." 4 "http://www.maplesoft.com/support/help/errors/view.as
+px?path=Error,%20(in%20DeleteMinMaxAvg)%20There%20are%20not%20enough%2
+0arguments.%20There%20should%20be%20at%20least%20three." "" }{TEXT 
+249 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"++++]\\!\")" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "$\"+y\"*e%\\&!\")" }}}{EXCHG {PARA 0 "" 0 "" 
+{XPPEDIT 2 1 "Typesetting:-mrow(Typesetting:-mo(\" \", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"));" 
+"-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-Q\"~
+F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretch
+yGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'lspa
+ceGQ&0.0emF'/%'rspaceGFC" }}{PARA 0 "" 0 "" {TEXT 204 10 "Problem 3." 
+}}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "" {TEXT 248 15 "The e
+xpression " }{XPPEDIT 248 0 "Typesetting:-mrow(Typesetting:-msup(Types
+etting:-mi(\"X\", italic = \"true\", mathvariant = \"italic\"), Typese
+tting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), supersc
+riptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6#-I%msupGF$6%-I#miGF$6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'-F/6%Q\"nF'F2F5/%1superscriptshiftGQ\"0F'" }{TEXT 248 24 ", f
+or an interger power " }{TEXT 228 1 "n" }{TEXT 248 9 " and any " }
+{XPPEDIT 248 0 "Typesetting:-mrow(Typesetting:-mi(\"X\", italic = \"tr
+ue\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6#-I#miGF$6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantG
+Q'italicF'" }{TEXT 248 112 ", can be computed using the following form
+ulae, which represent a negative power in terms of a positive power (-
+" }{TEXT 229 2 "n)" }{TEXT 248 72 ", and a positive power in terms of \+
+a smaller non-negative power (either " }{TEXT 230 1 "n" }{TEXT 248 6 "
+/2 ot " }{TEXT 231 1 "n" }{TEXT 248 47 "-1), and use only multiplicati
+on and division: " }}{PARA 0 "" 0 "" {TEXT 248 4 "    " }{XPPEDIT 248 
+0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesett
+ing:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"ita
+lic\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.27
+77778em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), Typeset
+ting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,6%Q\"XF'/%'italicGQ%trueF'/%,mat
+hvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1superscriptshiftGQ\"0F'-I#moGF$6-
+Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/%*separatorGFK/%)stretchyGFK/%*s
+ymmetricGFK/%(largeopGFK/%.movablelimitsGFK/%'accentGFK/%'lspaceGQ,0.2
+777778emF'/%'rspaceGFZ-I#mnGF$6$Q\"1F'FGF+" }{TEXT 248 1 "/" }
+{XPPEDIT 248 0 "Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"
+X\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mi
+(\"n\", italic = \"true\", mathvariant = \"italic\")), superscriptshif
+t = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#
+-I%msupGF$6%-I#miGF$6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF
+'-F#6$-I#moGF$6-Q*&uminus0;F'/F6Q'normalF'/%&fenceGQ&falseF'/%*separat
+orGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'a
+ccentGFB/%'lspaceGQ,0.2222222emF'/%'rspaceGFQ-F/6%Q\"nF'F2F5/%1supersc
+riptshiftGQ\"0F'" }{TEXT 248 18 "               if " }{TEXT 232 1 "n" 
+}{TEXT 248 4 " < 0" }}{PARA 0 "" 0 "" {TEXT 248 3 "   " }{XPPEDIT 248 
+0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesett
+ing:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"ita
+lic\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.27
+77778em\"), Typesetting:-mi(\"Id\", italic = \"true\", mathvariant = \+
+\"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,6%Q\"XF'/%'
+italicGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1superscripts
+hiftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/%*separator
+GFK/%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimitsGFK/%'acc
+entGFK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZ-F,6%Q#IdF'F7F:F+" }{TEXT 
+248 30 "                           if " }{TEXT 233 1 "n" }{TEXT 248 4 
+" = 0" }}{PARA 0 "" 0 "" {TEXT 248 3 "   " }{XPPEDIT 248 0 "Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typ
+esetting:-mi(\"X\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), super
+scriptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), T
+ypesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant
+ = \"italic\"), Typesetting:-mfrac(Typesetting:-mrow(Typesetting:-mi(
+\"n\", italic = \"true\", mathvariant = \"italic\")), Typesetting:-mro
+w(Typesetting:-mn(\"2\", mathvariant = \"normal\")), linethickness = \+
+\"1\", denomalign = \"center\", numalign = \"center\", bevelled = \"fa
+lse\"), superscriptshift = \"0\")), Typesetting:-mi(\"\"));" "-I%mrowG
+6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%m
+supGF$6%-F,6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"
+nF'F7F:/%1superscriptshiftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fence
+GQ&falseF'/%*separatorGFK/%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.
+movablelimitsGFK/%'accentGFK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZ-F26%
+F4-I&mfracGF$6(-F#6#F=-F#6#-I#mnGF$6$Q\"2F'FG/%.linethicknessGQ\"1F'/%
++denomalignGQ'centerF'/%)numalignGFio/%)bevelledGFKF@F+" }{XPPEDIT 248
+ 0 "Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"X\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mfrac(Typesetting:
+-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic
+\")), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal
+\")), linethickness = \"1\", denomalign = \"center\", numalign = \"cen
+ter\", bevelled = \"false\"), superscriptshift = \"0\"));" "-I%mrowG6#
+/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msupGF$6%-I#miGF$6%Q\"
+XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I&mfracGF$6(-F#6#-F/6%Q
+\"nF'F2F5-F#6#-I#mnGF$6$Q\"2F'/F6Q'normalF'/%.linethicknessGQ\"1F'/%+d
+enomalignGQ'centerF'/%)numalignGFM/%)bevelledGQ&falseF'/%1superscripts
+hiftGQ\"0F'" }{TEXT 248 13 "          if " }{TEXT 234 1 "n" }{TEXT 
+248 8 " is even" }}{PARA 0 "" 0 "" {TEXT 248 4 "    " }{XPPEDIT 248 0 
+"Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesettin
+g:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \"ital
+ic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"itali
+c\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777
+778em\"), Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \"it
+alic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,6%Q\"XF'/%'ital
+icGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1superscriptshift
+GQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/%*separatorGFK/
+%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimitsGFK/%'accentG
+FK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZF4F+" }{XPPEDIT 248 0 "Typesett
+ing:-mrow(Typesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mi(\"n\", it
+alic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&minus;
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\",
+ rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), superscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,Ty
+pesettingGI(_syslibGF'6#-I%msupGF$6%-I#miGF$6%Q\"XF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-F#6%-F/6%Q\"nF'F2F5-I#moGF$6-Q(&minus;F'/F6Q
+'normalF'/%&fenceGQ&falseF'/%*separatorGFE/%)stretchyGFE/%*symmetricGF
+E/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ,0.2222222emF'
+/%'rspaceGFT-I#mnGF$6$Q\"1F'FA/%1superscriptshiftGQ\"0F'" }{TEXT 248 
+14 "           if " }{TEXT 235 1 "n" }{TEXT 248 8 " is odd." }}{PARA 0
+ "" 0 "" {TEXT 248 130 "These formulae lead to an efficient recursive \+
+algorithm for computing integer powers using the minimal number of mul
+tiplications. " }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 236 3 "(a)" }{TEXT 248 19 " Write a procedure " }{TEXT 237 6 "Ma
+tPow" }{TEXT 248 82 "(X,n::integer) to implement this algorithm for co
+mputing powers of matrices. Test " }{TEXT 238 6 "MatPow" }{TEXT 248 
+23 "(<<1|2>,<3|4>>,12) and " }{TEXT 239 6 "MatPow" }{TEXT 248 20 "(<<1
+|2>,<3|4>>,-12)." }}{PARA 0 "" 0 "" {TEXT 248 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 240 3 "(b)" }{TEXT 248 19 " Write a procedure " }{TEXT 241 7 "Po
+lyPow" }{TEXT 248 182 "(X,n::integer) to implement this algorithm for \+
+computing powers of numbers and polynomials. Your procedure needs to e
+xapnd each product of polynomials in order to be effective. Test " }
+{TEXT 242 7 "PolyPow" }{TEXT 248 10 "(123,12), " }{TEXT 243 7 "PolyPow
+" }{TEXT 248 9 "(123,-12)" }{TEXT 244 9 ", PolyPow" }{TEXT 248 15 "(x^
+2+1,12) and " }{TEXT 245 7 "PolyPow" }{TEXT 248 14 "(x^2+1,-12). \n" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1348 "with(LinearAlgebra):  \n
+\nMatPow := proc(X, n::integer)\n    description \"This procedure comp
+utes the matrix X raised to the power n using an efficient recursive a
+lgorithm.\";\n    \n    \n    if n < 0 then\n        return MatrixInve
+rse(MatPow(X, -n));\n    \n    \n    elif n = 0 then\n        return I
+dentityMatrix(RowDimension(X));\n    \n    \n    elif n mod 2 = 0 then
+\n        local halfPower := MatPow(X, n/2);\n        return MatrixMat
+rixMultiply(halfPower, halfPower);\n    \n    \n    else\n        retu
+rn MatrixMatrixMultiply(X, MatPow(X, n-1));\n    end if;\nend proc:\n
+\n\ntest1 := MatPow(Matrix([[1, 2], [3, 4]]), 12);\ntest2 := MatPow(Ma
+trix([[1, 2], [3, 4]]), -12);\n\nprint(test1);\nprint(test2);\n\nPolyP
+ow := proc(X, n::integer)\n    description \"This procedure computes t
+he power of a number or polynomial X raised to n using an efficient re
+cursive algorithm.\";\n    \n    \n    if n < 0 then\n        return 1
+ / PolyPow(X, -n);\n    \n    \n    elif n = 0 then\n        return 1;
+\n    \n    \n    elif n mod 2 = 0 then\n        local halfPower := Po
+lyPow(X, n/2);\n        return expand(halfPower * halfPower);\n    \n \+
+   \n    else\n        return expand(X * PolyPow(X, n-1));\n    end if
+;\nend proc:\n\n\ntest3 := PolyPow(123, 12);\ntest4 := PolyPow(123, -1
+2);\ntest5 := PolyPow(x^2 + 1, 12);\ntest6 := PolyPow(x^2 + 1, -12);\n
+\nprint(test3);\nprint(test4);\nprint(test5);\nprint(test6);\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I(mfencedG6#/I+modulenameG6\"I,Typesett
+ingGI(_syslibGF'6(-I%mrowGF$6#-I'mtableGF$68-I$mtrGF$6'-I$mtdGF$6(-I#m
+nGF$6&Q*138067399F'/%+foregroundGQ([0,0,0]F'/%)readonlyGQ&falseF'/%,ma
+thvariantGQ'normalF'/%)rowalignGQ!F'/%,columnalignGFF/%+groupalignGFF/
+%(rowspanGQ\"1F'/%+columnspanGFM-F56(-F86&Q*201223170F'F;F>FAFDFGFIFKF
+NFDFGFI-F26'-F56(-F86&Q*301834755F'F;F>FAFDFGFIFKFN-F56(-F86&Q*4399021
+54F'F;F>FAFDFGFIFKFNFDFGFIF;F>/%&alignGQ%axisF'/FEQ)baselineF'/FHQ&rig
+htF'/FJQ'|frleft|hrF'/%/alignmentscopeGQ%trueF'/%,columnwidthGQ%autoF'
+/%&widthGFio/%+rowspacingGQ&1.0exF'/%.columnspacingGQ&0.8emF'/%)rowlin
+esGQ%noneF'/%,columnlinesGFdp/%&frameGFdp/%-framespacingGQ,0.4em~0.5ex
+F'/%*equalrowsGF@/%-equalcolumnsGF@/%-displaystyleGF@/%%sideGFao/%0min
+labelspacingGFapF;F>FA/%%openGQ\"[F'/%&closeGQ\"]F'" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "-I(mfencedG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6(-I%mrowGF$6#-I'mtableGF$68-I$mtrGF$6'-I$mtdGF$6(-I&mfracGF$6)-I#mnG
+F$6&Q*219951077F'/%+foregroundGQ([0,0,0]F'/%)readonlyGQ&falseF'/%,math
+variantGQ'normalF'-F;6&Q%2048F'F>FAFD/%.linethicknessGQ\"1F'/%+denomal
+ignGQ'centerF'/%)numalignGFO/%)bevelledGFCF>/%)rowalignGQ!F'/%,columna
+lignGFV/%+groupalignGFV/%(rowspanGFL/%+columnspanGFL-F56(-F,6$-I#moGF$
+6/Q*&uminus0;F'F>FAFD/%&fenceGFC/%*separatorGFC/%)stretchyGFC/%*symmet
+ricGFC/%(largeopGFC/%.movablelimitsGFC/%'accentGFC/%'lspaceGQ,0.222222
+2emF'/%'rspaceGFap-F86)-F;6&Q*100611585F'F>FAFDFGFJFMFPFRF>FTFWFYFenFg
+nFTFWFY-F26'-F56(-F,6$F]o-F86)-F;6&Q*301834755F'F>FAFD-F;6&Q%4096F'F>F
+AFDFJFMFPFRF>FTFWFYFenFgn-F56(-F86)-F;6&Q*138067399F'F>FAFDFdqFJFMFPFR
+F>FTFWFYFenFgnFTFWFYF>FA/%&alignGQ%axisF'/FUQ)baselineF'/FXFO/FZQ'|frl
+eft|hrF'/%/alignmentscopeGQ%trueF'/%,columnwidthGQ%autoF'/%&widthGF[s/
+%+rowspacingGQ&1.0exF'/%.columnspacingGQ&0.8emF'/%)rowlinesGQ%noneF'/%
+,columnlinesGFfs/%&frameGFfs/%-framespacingGQ,0.4em~0.5exF'/%*equalrow
+sGFC/%-equalcolumnsGFC/%-displaystyleGFC/%%sideGQ&rightF'/%0minlabelsp
+acingGFcsF>FAFD/%%openGQ\"[F'/%&closeGQ\"]F'" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "-I(mfencedG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+(-I%mrowGF$6#-I'mtableGF$68-I$mtrGF$6'-I$mtdGF$6(-I#mnGF$6&Q*138067399
+F'/%+foregroundGQ([0,0,0]F'/%)readonlyGQ&falseF'/%,mathvariantGQ'norma
+lF'/%)rowalignGQ!F'/%,columnalignGFF/%+groupalignGFF/%(rowspanGQ\"1F'/
+%+columnspanGFM-F56(-F86&Q*201223170F'F;F>FAFDFGFIFKFNFDFGFI-F26'-F56(
+-F86&Q*301834755F'F;F>FAFDFGFIFKFN-F56(-F86&Q*439902154F'F;F>FAFDFGFIF
+KFNFDFGFIF;F>/%&alignGQ%axisF'/FEQ)baselineF'/FHQ&rightF'/FJQ'|frleft|
+hrF'/%/alignmentscopeGQ%trueF'/%,columnwidthGQ%autoF'/%&widthGFio/%+ro
+wspacingGQ&1.0exF'/%.columnspacingGQ&0.8emF'/%)rowlinesGQ%noneF'/%,col
+umnlinesGFdp/%&frameGFdp/%-framespacingGQ,0.4em~0.5exF'/%*equalrowsGF@
+/%-equalcolumnsGF@/%-displaystyleGF@/%%sideGFao/%0minlabelspacingGFapF
+;F>FA/%%openGQ\"[F'/%&closeGQ\"]F'" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I
+(mfencedG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6(-I%mrowGF$6#-I
+'mtableGF$68-I$mtrGF$6'-I$mtdGF$6(-I&mfracGF$6)-I#mnGF$6&Q*219951077F'
+/%+foregroundGQ([0,0,0]F'/%)readonlyGQ&falseF'/%,mathvariantGQ'normalF
+'-F;6&Q%2048F'F>FAFD/%.linethicknessGQ\"1F'/%+denomalignGQ'centerF'/%)
+numalignGFO/%)bevelledGFCF>/%)rowalignGQ!F'/%,columnalignGFV/%+groupal
+ignGFV/%(rowspanGFL/%+columnspanGFL-F56(-F,6$-I#moGF$6/Q*&uminus0;F'F>
+FAFD/%&fenceGFC/%*separatorGFC/%)stretchyGFC/%*symmetricGFC/%(largeopG
+FC/%.movablelimitsGFC/%'accentGFC/%'lspaceGQ,0.2222222emF'/%'rspaceGFa
+p-F86)-F;6&Q*100611585F'F>FAFDFGFJFMFPFRF>FTFWFYFenFgnFTFWFY-F26'-F56(
+-F,6$F]o-F86)-F;6&Q*301834755F'F>FAFD-F;6&Q%4096F'F>FAFDFJFMFPFRF>FTFW
+FYFenFgn-F56(-F86)-F;6&Q*138067399F'F>FAFDFdqFJFMFPFRF>FTFWFYFenFgnFTF
+WFYF>FA/%&alignGQ%axisF'/FUQ)baselineF'/FXFO/FZQ'|frleft|hrF'/%/alignm
+entscopeGQ%trueF'/%,columnwidthGQ%autoF'/%&widthGF[s/%+rowspacingGQ&1.
+0exF'/%.columnspacingGQ&0.8emF'/%)rowlinesGQ%noneF'/%,columnlinesGFfs/
+%&frameGFfs/%-framespacingGQ,0.4em~0.5exF'/%*equalrowsGFC/%-equalcolum
+nsGFC/%-displaystyleGFC/%%sideGQ&rightF'/%0minlabelspacingGFcsF>FAFD/%
+%openGQ\"[F'/%&closeGQ\"]F'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&test3G
+6\"\";@F2(H1pr[Q;\"*>\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&test4G6\"#
+\"\"\"\";@F2(H1pr[Q;\"*>\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&test5G6
+\",<*$I\"xGF$\"#C\"\"\"*$F'\"#A\"#7*$F'\"#?\"#m*$F'\"#=\"$?#*$F'\"#;\"
+$&\\*$F'\"#9\"$#z*$F'F,\"$C**$F'\"#5F8*$F'\"\")F5*$F'\"\"'F2*$F'\"\"%F
+/*$F'\"\"#F,F)F)" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&test6G6\"*$,<*$I
+\"xGF$\"#C\"\"\"*$F(\"#A\"#7*$F(\"#?\"#m*$F(\"#=\"$?#*$F(\"#;\"$&\\*$F
+(\"#9\"$#z*$F(F-\"$C**$F(\"#5F9*$F(\"\")F6*$F(\"\"'F3*$F(\"\"%F0*$F(\"
+\"#F-F*F*!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "\";@F2(H1pr[Q;\"*>\"" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "#\"\"\"\";@F2(H1pr[Q;\"*>\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",<*$I\"xG6\"\"#C\"\"\"*$F$\"#A\"#7*$F$\"#?\"#m
+*$F$\"#=\"$?#*$F$\"#;\"$&\\*$F$\"#9\"$#z*$F$F*\"$C**$F$\"#5F6*$F$\"\")
+F3*$F$\"\"'F0*$F$\"\"%F-*$F$\"\"#F*F'F'" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "*$,<*$I\"xG6\"\"#C\"\"\"*$F%\"#A\"#7*$F%\"#?\"#m*$F%\"#=\"$?#*$F%
+\"#;\"$&\\*$F%\"#9\"$#z*$F%F+\"$C**$F%\"#5F7*$F%\"\")F4*$F%\"\"'F1*$F%
+\"\"%F.*$F%\"\"#F+F(F(!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 2 1 "T
+ypesetting:-mrow(Typesetting:-mo(\" \", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"));" "-I%mrowG6#/I+mo
+dulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-Q\"~F'/%,mathvariant
+GQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretchyGF4/%*symmetric
+GF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'lspaceGQ&0.0emF'/%'r
+spaceGFC" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 125 100 1803 1 1 1 1 }{PAGENUMBERS 0
+ 1 2 33 1 1 }
